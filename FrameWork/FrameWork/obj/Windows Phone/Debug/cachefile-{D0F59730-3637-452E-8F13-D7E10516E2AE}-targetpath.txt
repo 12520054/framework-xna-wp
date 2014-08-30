@@ -1,0 +1,2 @@
+Content\Resource\RedSquare.xnb
+Content\Font\ArialFont.xnb
