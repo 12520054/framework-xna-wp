@@ -1,0 +1,1 @@
+Yeb, u can make a game run on wp devices.
